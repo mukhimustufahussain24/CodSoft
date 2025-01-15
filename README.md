@@ -1,6 +1,6 @@
-# CodSoft Machine Learning Projects
+# CodSoft Machine Learning Tasks
 
-This repository contains machine learning projects that were developed during my internship at CodSoft. The tasks range from basic data analysis to advanced machine learning models.
+This repository contains machine learning tasks that were developed during my internship at CodSoft. The tasks range from basic data analysis to advanced machine learning models.
 
 ## Table of Contents
 
